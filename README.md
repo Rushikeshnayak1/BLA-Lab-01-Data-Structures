@@ -451,7 +451,7 @@ I created video explanations to demonstrate the theory, diagrams, C++ code, and 
 
 ## Video 1 — Stack Data Structure
 
-**YouTube: https://youtu.be/JZTU6inQm_g?si=YSow8dMXtykGAfTZ
+**YouTube:** https://youtu.be/JZTU6inQm_g?si=YSow8dMXtykGAfTZ
 
 Topics include **LIFO, Push, Pop, Peek, Overflow, Underflow, diagrams, C++ implementation, and program output**.
 
@@ -459,7 +459,7 @@ Topics include **LIFO, Push, Pop, Peek, Overflow, Underflow, diagrams, C++ imple
 
 ## Video 2 — Queue & Circular Queue
 
-**YouTube: https://youtu.be/iTMKbsSJSr0?si=ASiwkU0hqkfaStuo
+**YouTube:** https://youtu.be/iTMKbsSJSr0?si=ASiwkU0hqkfaStuo
 
 Topics include **FIFO, Enqueue, Dequeue, FRONT, REAR, Circular Queue wrap-around, modulo arithmetic, C++ implementation, and output**.
 
@@ -467,7 +467,7 @@ Topics include **FIFO, Enqueue, Dequeue, FRONT, REAR, Circular Queue wrap-around
 
 ## Video 3 — Binary Trees & BST
 
-**YouTube: https://youtu.be/XZJbFwljFFU?si=ENnbXFN2MjrXhTVh
+**YouTube:** https://youtu.be/XZJbFwljFFU?si=ENnbXFN2MjrXhTVh
 
 Topics include **Binary Tree terminology, BST construction, duplicate handling, predecessor, successor, Inorder, Preorder, Postorder, C++ implementation, and output**.
 
